@@ -1,0 +1,18 @@
+body{
+    background :url("fundo.jpg");
+    font-family: "Comfortaa", sans-serif;
+    background-size: cover;
+}
+
+h1{
+    font-family: "Shadows Into Light", cursive;
+}
+
+#footer{
+    background-color: rgb(5, 229, 250);
+    width: 100%;
+    position: inherit;
+    bottom: 0%;
+    text-align: center;
+    line-height: 3;
+}
